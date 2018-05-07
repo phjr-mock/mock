@@ -1,0 +1,21 @@
+{
+  "name": "mockApi",
+  "version": "1.0.0",
+  "description": "接口测试本地模拟地址",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4",
+    "morgan": "^1.8.1",
+    "request-json": "^0.6.1",
+    "winston": "^2.3.1"
+  }
+}
